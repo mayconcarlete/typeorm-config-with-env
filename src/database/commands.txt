@@ -1,0 +1,13 @@
+/*
+criar migration:
+npm run typeorm migration:create -- -n [Name]
+
+rodar a migration:
+npm run typeorm migration:run
+
+rodar migration por criação de classe
+npm run typeorm migration:generate -- -n[name]
+
+criar a entidade:
+npx typeorm entity:create -n [Name]
+*/
